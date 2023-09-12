@@ -8,8 +8,8 @@ Created on Sun Sep 10 23:18:44 2023
 import pymongo
 
 # Conexión a MongoDB (ajusta esta URL según tu configuración)
-client = pymongo.MongoClient("mongodb+srv://antiantichambing:Cuandonaci2001.@cluster0.cjblkgk.mongodb.net/?retryWrites=true&w=majority")  
-database = client.practicasSE  # Reemplaza "mi_base_de_datos" con el nombre de tu base de datos
+client = pymongo.MongoClient("????????????")  
+database = client.practicasSE  
 practica2 = database["practica2"]
 
 
